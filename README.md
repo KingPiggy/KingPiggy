@@ -1,4 +1,12 @@
-### Hi there 👋
+### 전산쟁이의 기록
+#### 🔭 어느 제조업 기업의 전산팀 팀원 (2019.08.12 ~ )
+#### 🌱 Web Full-Stack을 공부하고 있습니다.
+#### 🤔 알고리즘과 많은 개발 경험을 쌓으려 하고 있습니다.
+
+
+### ✏ Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **HoonDragonite/HoonDragonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
