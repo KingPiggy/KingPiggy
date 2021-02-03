@@ -14,5 +14,3 @@ jobs:
         with:
           feed_list: 'https://kingpiggylab.tistory.com/rss'
           max_post_count: '3'
-          readme_path	: ./README.md
-          template: $emojiKey:✏
