@@ -5,8 +5,7 @@
 
 
 ### 📕 Recent Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->$emojiKey:✏$emojiKey:✏$emojiKey:✏<!-- BLOG-POST-LIST:END -->
 
 <!--
 **HoonDragonite/HoonDragonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
