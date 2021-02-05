@@ -6,9 +6,9 @@
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[SQL] 기본키 채번, 마스터-디테일 채번, Serl 구조의 채번](https://kingpiggylab.tistory.com/286)
 - [[Java] 향상된 for문 콜론 ":" 연산자](https://kingpiggylab.tistory.com/284)
 - [자바 2차원 배열 정리](https://kingpiggylab.tistory.com/283)
-- [[VS Code] VS Code 프로젝트 Github에 올리기, 연동하기](https://kingpiggylab.tistory.com/282)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
