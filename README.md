@@ -8,7 +8,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [[SQL] 기본키 채번, 마스터-디테일 채번, Serl 구조의 채번](https://kingpiggylab.tistory.com/286)
 - [[Java] 향상된 for문 콜론 ":" 연산자](https://kingpiggylab.tistory.com/284)
-- [자바 2차원 배열 정리](https://kingpiggylab.tistory.com/283)
+- [[Java] 2차원 배열 인덱스](https://kingpiggylab.tistory.com/283)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
