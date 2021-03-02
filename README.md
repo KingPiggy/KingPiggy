@@ -6,9 +6,9 @@
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[PS] 그리디 알고리즘](https://kingpiggylab.tistory.com/290)
 - [ORM 과 SQL Mapper](https://kingpiggylab.tistory.com/289)
 - [[SQL] 기본키 채번, 마스터-디테일 채번, Serl 구조의 채번](https://kingpiggylab.tistory.com/286)
-- [[Java] 향상된 for문 콜론 ":" 연산자](https://kingpiggylab.tistory.com/284)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
