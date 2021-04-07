@@ -6,9 +6,9 @@
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[SQL 구문] 차집합 (LEFT OUTER JOIN 이용)](https://kingpiggylab.tistory.com/292)
 - [[SQL구문] Delete records with table join](https://kingpiggylab.tistory.com/291)
 - [[PS] 그리디 알고리즘](https://kingpiggylab.tistory.com/290)
-- [ORM 과 SQL Mapper](https://kingpiggylab.tistory.com/289)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
