@@ -6,9 +6,9 @@
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 정리](https://kingpiggylab.tistory.com/296)
+- [[Git] Commit message 작성 규칙](https://kingpiggylab.tistory.com/295)
 - [자료구조](https://kingpiggylab.tistory.com/294)
-- [[SQL 구문] 차집합 (LEFT OUTER JOIN 이용)](https://kingpiggylab.tistory.com/292)
-- [[SQL구문] Delete records with table join](https://kingpiggylab.tistory.com/291)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
