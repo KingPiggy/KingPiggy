@@ -6,9 +6,9 @@
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [그래프 간단 정리](https://kingpiggylab.tistory.com/299)
 - [트리 간단 정리](https://kingpiggylab.tistory.com/298)
 - [[스프링 부트와 AWS로 혼자 구현하는 웹 서비스] 정리](https://kingpiggylab.tistory.com/296)
-- [[Git] Commit message 작성 규칙](https://kingpiggylab.tistory.com/295)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
