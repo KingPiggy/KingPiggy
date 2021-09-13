@@ -13,7 +13,7 @@
 
 ### 이력서
 
-[이력서 보기](https://hoondragonite.github.io/resume/).
+[이력서 보기](https://hoondragonite.github.io/resume/){:target="_blank"}
 
 <!--
 **HoonDragonite/HoonDragonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
