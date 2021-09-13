@@ -11,6 +11,10 @@
 - [그래프 간단 정리](https://kingpiggylab.tistory.com/299)
 <!-- BLOG-POST-LIST:END -->
 
+### 이력서
+
+[이력서 보기](https://hoondragonite.github.io/resume/).
+
 <!--
 **HoonDragonite/HoonDragonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
