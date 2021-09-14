@@ -6,9 +6,9 @@
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [신간 서적 "SQLP 핵심노트" 출간](https://kingpiggylab.tistory.com/317)
 - [인증과 인가](https://kingpiggylab.tistory.com/307)
 - [[L.E.Assemble] React + Spring Boot 프로젝트 구성](https://kingpiggylab.tistory.com/306)
-- [그래프 간단 정리](https://kingpiggylab.tistory.com/299)
 <!-- BLOG-POST-LIST:END -->
 
 ### 이력서
