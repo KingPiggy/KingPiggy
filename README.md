@@ -1,4 +1,4 @@
-### About 
+### 😊 About 
 Java, Spring, Database에 관심이 많은 초보 개발자/엔지니어입니다.
 
 
@@ -9,9 +9,9 @@ Java, Spring, Database에 관심이 많은 초보 개발자/엔지니어입니�
 - [[L.E.Assemble] React + Spring Boot 프로젝트 구성](https://kingpiggylab.tistory.com/306)
 <!-- BLOG-POST-LIST:END -->
 
-### Resume
+### 📄 Resume
 
-<a href="https://hoondragonite.github.io/resume" target="_blank">이력서 보기</a>
+<a href="https://hoondragonite.github.io/resume" target="_blank">Resume</a>
 
 <!--
 **HoonDragonite/HoonDragonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
