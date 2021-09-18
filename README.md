@@ -1,7 +1,5 @@
-### 전산쟁이의 기록
-🔭 어느 제조업 기업의 전산팀 팀원 (2019.08.12 ~ )  
-🌱 PS, Web Full-Stack을 공부하고 있습니다.  
-🤔 이해하고 코딩하려 노력합니다.  
+### About 
+Java, Spring, Database에 관심이 많은 초보 개발자/엔지니어입니다.
 
 
 ### 📕 Recent Blog posts
@@ -11,7 +9,7 @@
 - [[L.E.Assemble] React + Spring Boot 프로젝트 구성](https://kingpiggylab.tistory.com/306)
 <!-- BLOG-POST-LIST:END -->
 
-### 이력서
+### Resume
 
 <a href="https://hoondragonite.github.io/resume" target="_blank">이력서 보기</a>
 
