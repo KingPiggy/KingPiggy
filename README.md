@@ -4,9 +4,9 @@ Java, Spring, Database에 관심이 많은 초보 개발자/엔지니어입니�
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL vs NoSQL](https://kingpiggylab.tistory.com/321)
 - [신간 서적 "SQLP 핵심노트" 출간](https://kingpiggylab.tistory.com/317)
 - [인증과 인가](https://kingpiggylab.tistory.com/307)
-- [[L.E.Assemble] React + Spring Boot 프로젝트 구성](https://kingpiggylab.tistory.com/306)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📄 Resume
