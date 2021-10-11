@@ -4,9 +4,9 @@ Java, Spring, Database에 관심이 많은 초보 개발자/엔지니어입니�
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Spring Boot] hibernate.ddl-auto 옵션 정리](https://kingpiggylab.tistory.com/327)
 - [[Git] remote url 변경](https://kingpiggylab.tistory.com/326)
 - [Call by Value 와 Call by Reference](https://kingpiggylab.tistory.com/325)
-- [[L.E.Assemble] nginx 로드밸런싱 적용과 배포 스크립트 수정](https://kingpiggylab.tistory.com/324)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📄 Resume
