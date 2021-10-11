@@ -11,7 +11,7 @@ Java, Spring, Database에 관심이 많은 초보 개발자/엔지니어입니�
 
 ### 📄 Resume
 
-<a href="https://hoondragonite.github.io/resume" target="_blank">Resume</a>
+<a href="https://kingpiggy.github.io/resume/" target="_blank">Resume</a>
 
 <!--
 **HoonDragonite/HoonDragonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
