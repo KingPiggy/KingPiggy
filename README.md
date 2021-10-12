@@ -1,5 +1,5 @@
 ### 😊 About 
-Java, Spring, Database에 관심이 많은 초보 개발자/엔지니어입니다.
+Java, Spring, Database에 관심이 많은 초보 개발자입니다.
 
 
 ### 📕 Recent Blog posts
@@ -9,9 +9,9 @@ Java, Spring, Database에 관심이 많은 초보 개발자/엔지니어입니�
 - [Call by Value 와 Call by Reference](https://kingpiggylab.tistory.com/325)
 <!-- BLOG-POST-LIST:END -->
 
-### 📄 Resume
+### 📄 Portfolio
 
-<a href="https://kingpiggy.github.io/resume/" target="_blank">Resume</a>
+<a href="https://kingpiggy.github.io/resume/" target="_blank">portfolio</a>
 
 <!--
 **HoonDragonite/HoonDragonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
