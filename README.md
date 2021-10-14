@@ -4,9 +4,9 @@ Java, Spring, Database에 관심이 많은 초보 개발자입니다.
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[JPA] 연관 관계를 가진 엔티티의 생성](https://kingpiggylab.tistory.com/329)
 - [[Spring Boot] hibernate.ddl-auto 옵션 정리](https://kingpiggylab.tistory.com/327)
 - [[Git] remote url 변경](https://kingpiggylab.tistory.com/326)
-- [Call by Value 와 Call by Reference](https://kingpiggylab.tistory.com/325)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📄 Portfolio
