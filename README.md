@@ -4,9 +4,11 @@ Java, Spring, Database에 관심이 많은 초보 개발자입니다.
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Git] Git Flow 전략](https://kingpiggylab.tistory.com/333)
-- [[CS] 기술면접 정리](https://kingpiggylab.tistory.com/332)
-- [[JPA] 연관 관계를 가진 엔티티의 생성](https://kingpiggylab.tistory.com/329)
+- [도커 정리 &lpar;이론편&rpar;](https://kingpiggylab.tistory.com/356)
+- [고급 매핑&lpar;상속, Mapped Superclass&rpar;](https://kingpiggylab.tistory.com/355)
+- [@ControllerAdvice를 이용한 예외처리](https://kingpiggylab.tistory.com/354)
+- [@Vaild를 이용한 Validation 검증](https://kingpiggylab.tistory.com/353)
+- [@Secured, @PreAuthorized를 이용한 메소드 수준의 권한 적용](https://kingpiggylab.tistory.com/352)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📄 Portfolio
