@@ -4,11 +4,11 @@ Java, Spring, Database에 관심이 많은 초보 개발자입니다.
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [양방향 연관관계 매핑을 위한 연관관계 편의 메소드](https://kingpiggylab.tistory.com/358)
 - [[AWS] EC2와 탄력적 IP](https://kingpiggylab.tistory.com/357)
 - [도커 정리 &lpar;이론편&rpar;](https://kingpiggylab.tistory.com/356)
 - [고급 매핑&lpar;상속, Mapped Superclass&rpar;](https://kingpiggylab.tistory.com/355)
 - [@ControllerAdvice를 이용한 예외처리](https://kingpiggylab.tistory.com/354)
-- [@Vaild를 이용한 Validation 검증](https://kingpiggylab.tistory.com/353)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📄 Portfolio
