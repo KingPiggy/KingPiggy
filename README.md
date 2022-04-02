@@ -1,6 +1,5 @@
-### 😊 About 
-Java, Spring, Database에 관심이 많은 초보 개발자입니다.
-
+### ✏️ Note
+> 객관적으로 돌이켜보라
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
