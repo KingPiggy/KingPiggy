@@ -3,11 +3,11 @@
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[完] 값 타입](https://kingpiggylab.tistory.com/364)
 - [프록시와 연관관계 관리](https://kingpiggylab.tistory.com/363)
 - [[Spring] POI 라이브러리를 이용한 Excel 생성](https://kingpiggylab.tistory.com/361)
 - [Multi module 프로젝트 구성](https://kingpiggylab.tistory.com/360)
 - [[Spring] 인텔리 J에 환경변수, VMware Option 설정](https://kingpiggylab.tistory.com/359)
-- [양방향 연관관계 매핑을 위한 연관관계 편의 메소드](https://kingpiggylab.tistory.com/358)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📄 Portfolio
