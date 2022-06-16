@@ -3,11 +3,11 @@
 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [배포 방식&lpar;롤링, 블루-그린, 카나리아&rpar;](https://kingpiggylab.tistory.com/367)
 - [도커와 쿠버네티스](https://kingpiggylab.tistory.com/366)
 - [[完] 값 타입](https://kingpiggylab.tistory.com/364)
 - [프록시와 연관관계 관리](https://kingpiggylab.tistory.com/363)
 - [[Spring] POI 라이브러리를 이용한 Excel 생성](https://kingpiggylab.tistory.com/361)
-- [Multi module 프로젝트 구성](https://kingpiggylab.tistory.com/360)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📄 Portfolio
