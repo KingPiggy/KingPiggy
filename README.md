@@ -1,6 +1,10 @@
 ### ✏️ Note
 > 객관적으로 돌이켜보라
 
+### 📄 Portfolio
+<a href="https://bit.ly/3mNbb0w" target="_blank">portfolio</a>
+
+<!-- 
 ### 📕 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot Java 8에서 11로 업그레이드](https://kingpiggylab.tistory.com/371)
@@ -9,10 +13,7 @@
 - [컨테이너 개발 환경의 등장 배경과 쿠버네티스](https://kingpiggylab.tistory.com/366)
 - [[完] 값 타입](https://kingpiggylab.tistory.com/364)
 <!-- BLOG-POST-LIST:END -->
-
-### 📄 Portfolio
-
-<a href="https://bit.ly/3mNbb0w" target="_blank">portfolio</a>
+-->
 
 <!--
 **HoonDragonite/HoonDragonite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
