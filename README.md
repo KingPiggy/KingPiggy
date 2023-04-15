@@ -1,8 +1,8 @@
 ### ✏️ Note
-> 객관적으로 돌이켜보라
+> No pain, no gain.
 
-### 📄 Portfolio
-<a href="https://bit.ly/3mNbb0w" target="_blank">portfolio</a>
+<!-- ### 📄 Portfolio -->
+<!-- <a href="https://bit.ly/3mNbb0w" target="_blank">portfolio</a> -->
 
 <!-- 
 ### 📕 Recent Blog posts
