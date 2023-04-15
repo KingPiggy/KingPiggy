@@ -4,12 +4,9 @@
 <!-- ### 📄 Portfolio -->
 <!-- <a href="https://bit.ly/3mNbb0w" target="_blank">portfolio</a> -->
 
-<!-- 
 ### 📕 Recent Blog posts
--->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
 
 
 <!--
