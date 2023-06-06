@@ -6,11 +6,11 @@
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [클린코드 1장 ~ 2장](https://kingpiggylab.tistory.com/397)
 - [윈도우 명령 프롬프트 cmd에서 ls, clear 사용하기](https://kingpiggylab.tistory.com/393)
 - [[Kotlin] 코틀린 개념 정리](https://kingpiggylab.tistory.com/391)
 - [Checked Exception과 Unchecked Exception 이란? 예외 처리 기법](https://kingpiggylab.tistory.com/390)
 - [[JPA] 낙관적 락&lpar;Optimistic Lock&rpar;, 비관적 락&lpar;Pessimistic Lock&rpar;](https://kingpiggylab.tistory.com/389)
-- [[InteliJ] 인텔리제이 설정 백업](https://kingpiggylab.tistory.com/388)
 <!-- BLOG-POST-LIST:END -->
 
 
