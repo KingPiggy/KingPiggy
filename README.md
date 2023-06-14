@@ -6,7 +6,7 @@
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [클린코드 6장](https://kingpiggylab.tistory.com/400)
+- [클린코드 6~7장](https://kingpiggylab.tistory.com/400)
 - [클린코드 4~5장](https://kingpiggylab.tistory.com/399)
 - [클린코드 3장](https://kingpiggylab.tistory.com/398)
 - [클린코드 1장 ~ 2장](https://kingpiggylab.tistory.com/397)
