@@ -6,11 +6,11 @@
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finder에서 iterms2 바로 열기](https://kingpiggylab.tistory.com/405)
 - [클린코드 6~8장](https://kingpiggylab.tistory.com/400)
 - [클린코드 4~5장](https://kingpiggylab.tistory.com/399)
 - [클린코드 3장](https://kingpiggylab.tistory.com/398)
 - [클린코드 1장 ~ 2장](https://kingpiggylab.tistory.com/397)
-- [윈도우 명령 프롬프트 cmd에서 ls, clear 사용하기](https://kingpiggylab.tistory.com/393)
 <!-- BLOG-POST-LIST:END -->
 
 
