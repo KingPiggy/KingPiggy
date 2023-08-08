@@ -7,10 +7,10 @@
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [Finder에서 iterms2 바로 열기](https://kingpiggylab.tistory.com/405)
+- [클린코드 9장](https://kingpiggylab.tistory.com/402)
 - [클린코드 6~8장](https://kingpiggylab.tistory.com/400)
 - [클린코드 4~5장](https://kingpiggylab.tistory.com/399)
 - [클린코드 3장](https://kingpiggylab.tistory.com/398)
-- [클린코드 1장 ~ 2장](https://kingpiggylab.tistory.com/397)
 <!-- BLOG-POST-LIST:END -->
 
 
