@@ -6,11 +6,11 @@
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [[MySql] 랜덤 날짜 구하기 쿼리 모음](https://kingpiggylab.tistory.com/406)
 - [Finder에서 iterms2 바로 열기](https://kingpiggylab.tistory.com/405)
 - [클린코드 9장](https://kingpiggylab.tistory.com/402)
 - [클린코드 6~8장](https://kingpiggylab.tistory.com/400)
 - [클린코드 4~5장](https://kingpiggylab.tistory.com/399)
-- [클린코드 3장](https://kingpiggylab.tistory.com/398)
 <!-- BLOG-POST-LIST:END -->
 
 
