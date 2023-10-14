@@ -7,10 +7,10 @@
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [Local private docker registry 구축하기](https://kingpiggylab.tistory.com/411)
+- [Minikube를 이용한 로컬 클러스터 구축](https://kingpiggylab.tistory.com/410)
 - [ShedLock을 이용한 스케줄 작업 중복 방지하기](https://kingpiggylab.tistory.com/408)
 - [[MySql] 대용량 테스트 데이터 생성하기](https://kingpiggylab.tistory.com/407)
 - [[MySql] 랜덤 날짜 구하기 쿼리 모음](https://kingpiggylab.tistory.com/406)
-- [Finder에서 iterms2 바로 열기](https://kingpiggylab.tistory.com/405)
 <!-- BLOG-POST-LIST:END -->
 
 
