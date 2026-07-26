@@ -1,22 +1,20 @@
-name: Recent Blog Posts Update
-
+name: Latest blog post workflow
 on:
-  schedule:
+  schedule: # Run workflow automatically
     # KST 22:00, 22:30, 23:00, 23:30
     - cron: '0,30 13,14 * * *'
-  workflow_dispatch:
-
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
-  contents: write
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: https://kingpiggylab.tistory.com/rss
-          max_post_count: 5
+          feed_list: "https://kingpiggylab.tistory.com/rss"
