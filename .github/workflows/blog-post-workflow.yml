@@ -18,3 +18,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://kingpiggylab.tistory.com/rss"
+          user_agent: Mozilla/5.0
+          accept_header: application/rss+xml, application/xml;q=0.9, */*;q=0.8
