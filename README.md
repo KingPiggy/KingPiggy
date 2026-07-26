@@ -1,6 +1,3 @@
-### ✏️ Note
-> No pain, no gain.
-
 <!-- ### 📄 Portfolio -->
 <!-- <a href="https://bit.ly/3mNbb0w" target="_blank">portfolio</a> -->
 
