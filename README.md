@@ -3,10 +3,11 @@
 
 ### 📕 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [불변 객체&lpar;Immutable Object&rpar;, 일급 컬렉션&lpar;First-Class Collection&rpar;](https://kingpiggylab.tistory.com/430)
 - [Java 가상 스레드 vs Kotlin 코루틴 vs Go 고루틴 비교](https://kingpiggylab.tistory.com/429)
 - [Java LTS 버전들 파헤치기](https://kingpiggylab.tistory.com/428)
+- [[본식DVD] 르랑필름 더컨벤션 잠실 계약 후기&lpar;추천인 코드&rpar;](https://kingpiggylab.tistory.com/427)
 - [Dockerfile 단일 스테이지와 멀티 스테이지](https://kingpiggylab.tistory.com/425)
-- [Go 테스트 코드 작성하기](https://kingpiggylab.tistory.com/423)
 <!-- BLOG-POST-LIST:END -->
 
 
