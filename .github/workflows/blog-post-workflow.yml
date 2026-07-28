@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://kingpiggylab.tistory.com/rss"
-          max_post_count: 3
+          max_post_count: 5
           commit_message: "Update by workflow"
           committer_username: "🤖Bot"
           committer_email: "<>"
